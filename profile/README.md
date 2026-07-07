@@ -14,15 +14,3 @@
 </div>
 
 ---
-
-## Get in Touch
-
-<div style="animation: fadeIn 1s ease-out 1.1s both; text-align: center;">
-
-🔗 **[github.com/Pylos-Robotics](https://github.com/Pylos-Robotics)**
-
-📧 **contact@pylosrobotics.com** *(replace with your actual email)*
-
-🌐 **Website:** *(coming soon)*
-
-</div>
